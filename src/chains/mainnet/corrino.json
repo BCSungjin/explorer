@@ -11,8 +11,7 @@
     "assets": [{
         "base": "ucor",
         "symbol": "COR",
-        "exponent": "6",
-        "logo": "/logos/Corrino.png"
+        "exponent": "6"
     }]
 }
 

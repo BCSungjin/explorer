@@ -11,8 +11,7 @@
     "assets": [{
         "base": "uhar",
         "symbol": "HAR",
-        "exponent": "6",
-        "logo": "/logos/harkonnen.png"
+        "exponent": "6"
     }]
 }
 
