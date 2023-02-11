@@ -3,16 +3,16 @@
     "api": ["http://54.224.89.241:4317"],
     "rpc": ["http://54.224.89.241:56657"],
     "snapshot_provider": "",
-    "skd_version": "0.45.3",
+    "sdk_version": "0.45.3",
     "coin_type": "118",
     "min_tx_fee": "5000",
     "addr_prefix": "cor",
-    "logo": "/logos/corrino.png",
+    "logo": "/logos/Corrino.png",
     "assets": [{
         "base": "ucor",
         "symbol": "COR",
         "exponent": "6",
-        "logo": "/logos/corrino.png"
+        "logo": "/logos/Corrino.png"
     }]
 }
 

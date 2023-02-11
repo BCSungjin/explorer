@@ -3,15 +3,15 @@
     "api": ["http://54.224.89.241:3317"],
     "rpc": ["http://54.224.89.241:46657"],
     "snapshot_provider": "",
-    "skd_version": "0.45.3",
+    "sdk_version": "0.45.3",
     "coin_type": "118",
     "min_tx_fee": "5000",
     "addr_prefix": "ord",
-    "logo": "/logos/ordos.png",
+    "logo": "/logos/Ordos.png",
     "assets": [{
         "base": "uord",
         "symbol": "ORD",
         "exponent": "6",
-        "logo": "/logos/ordos.png"
+        "logo": "/logos/Ordos.png"
     }]
 }
