@@ -1,0 +1,19 @@
+{
+    "chain_name": "atreides",
+    "api": ["http://54.224.89.241:2317"],
+    "rpc": ["http://54.224.89.241:36657"],
+    "snapshot_provider": "",
+    "skd_version": "0.45.3",
+    "coin_type": "118",
+    "min_tx_fee": "5000",
+    "addr_prefix": "atr",
+    "logo": "/logos/Atreides.png",
+    "assets": [{
+        "base": "uatr",
+        "symbol": "ATR",
+        "exponent": "6",
+        "logo": "/logos/Atreides.png"
+    }]
+}
+
+
