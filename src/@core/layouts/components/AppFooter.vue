@@ -6,10 +6,10 @@
         class="ml-25 font-weight-bolder"
         href="#"
         target="_blank"
-      >Ping.pub</b-link>
+      >Zer0node</b-link>
     </span>
 
-    <router-link
+    <!-- <router-link
       v-ripple.400="'rgba(113, 102, 240, 0.15)'"
       class="float-md-right"
       to="/coffee"
@@ -24,7 +24,7 @@
           class="text-danger stroke-current"
         />
       </span>
-    </router-link>
+    </router-link> -->
   </p>
 </template>
 

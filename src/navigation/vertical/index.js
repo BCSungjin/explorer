@@ -19,7 +19,7 @@ function processMenu() {
       title: 'blockchains',
       children: blockchains,
       tag: `${blockchains.length}`,
-      icon: 'https://ping.pub/logo.svg',
+      icon: 'https://station-assets.terra.money/img/coins/Atreides.png',
     })
   }
   chainMenus.push({ header: 'LINKS' })
@@ -30,25 +30,25 @@ function processMenu() {
       icon: 'ChromeIcon',
     })
   } else {
-    chainMenus.push({
-      title: 'Testnet Explorer',
-      href: 'http://testnet.ping.pub',
-      icon: 'LifeBuoyIcon',
-    })
+    // chainMenus.push({
+    //   title: 'Testnet Explorer',
+    //   href: 'http://testnet.ping.pub',
+    //   icon: 'LifeBuoyIcon',
+    // })
   }
   chainMenus.push({
     title: 'Twitter',
-    href: 'https://twitter.com/ping_pub',
+    href: 'https://twitter.com/terra_money',
     icon: 'TwitterIcon',
   })
   chainMenus.push({
-    title: 'FAQ',
-    href: 'https://github.com/ping-pub/explorer/discussions',
+    title: 'Discord',
+    href: 'https://discord.gg/terra-money',
     icon: 'MessageSquareIcon',
   })
   chainMenus.push({
     title: 'Github',
-    href: 'https://github.com/ping-pub/explorer',
+    href: 'https://github.com/terra-money/alliance',
     icon: 'GithubIcon',
   })
 
