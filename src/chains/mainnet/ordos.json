@@ -1,17 +1,19 @@
 {
-    "chain_name": "ordos",
-    "api": ["http://54.224.89.241:3317"],
-    "rpc": ["http://54.224.89.241:46657"],
-    "snapshot_provider": "",
-    "sdk_version": "0.45.3",
-    "coin_type": "118",
-    "min_tx_fee": "5000",
-    "addr_prefix": "ord",
-    "logo": "/logos/Ordos.png",
-    "assets": [{
-        "base": "uord",
-        "symbol": "ORD",
-        "exponent": "6",
-        "logo": "/logos/Ordos.png"
-    }]
+  "chain_name": "ordos",
+  "api": ["https://ordos.terra.dev:1317"],
+  "rpc": ["https://ordos.terra.dev:26657"],
+  "snapshot_provider": "",
+  "sdk_version": "0.45.3",
+  "coin_type": "118",
+  "min_tx_fee": "5000",
+  "addr_prefix": "ord",
+  "logo": "/logos/Ordos.png",
+  "assets": [
+    {
+      "base": "uord",
+      "symbol": "ORD",
+      "exponent": "6",
+      "logo": "/logos/Ordos.png"
+    }
+  ]
 }

@@ -1,18 +1,18 @@
 {
-    "chain_name": "harkonnen",
-    "api": ["http://54.224.89.241:1317"],
-    "rpc": ["http://54.224.89.241:26657"],
-    "snapshot_provider": "",
-    "sdk_version": "0.45.3",
-    "coin_type": "118",
-    "min_tx_fee": "5000",
-    "addr_prefix": "har",
-    "logo": "/logos/harkonnen.png",
-    "assets": [{
-        "base": "uhar",
-        "symbol": "HAR",
-        "exponent": "6"
-    }]
+  "chain_name": "harkonnen",
+  "api": ["https://harkonnen.terra.dev:1317"],
+  "rpc": ["https://harkonnen.terra.dev:26657"],
+  "snapshot_provider": "",
+  "sdk_version": "0.45.3",
+  "coin_type": "118",
+  "min_tx_fee": "5000",
+  "addr_prefix": "har",
+  "logo": "/logos/harkonnen.png",
+  "assets": [
+    {
+      "base": "uhar",
+      "symbol": "HAR",
+      "exponent": "6"
+    }
+  ]
 }
-
-

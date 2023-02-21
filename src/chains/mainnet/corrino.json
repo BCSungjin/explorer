@@ -1,18 +1,18 @@
 {
-    "chain_name": "corrino",
-    "api": ["http://54.224.89.241:4317"],
-    "rpc": ["http://54.224.89.241:56657"],
-    "snapshot_provider": "",
-    "sdk_version": "0.45.3",
-    "coin_type": "118",
-    "min_tx_fee": "5000",
-    "addr_prefix": "cor",
-    "logo": "/logos/Corrino.png",
-    "assets": [{
-        "base": "ucor",
-        "symbol": "COR",
-        "exponent": "6"
-    }]
+  "chain_name": "corrino",
+  "api": ["https://corrino.terra.dev:1317"],
+  "rpc": ["https://corrino.terra.dev:26657"],
+  "snapshot_provider": "",
+  "sdk_version": "0.45.3",
+  "coin_type": "118",
+  "min_tx_fee": "5000",
+  "addr_prefix": "cor",
+  "logo": "/logos/Corrino.png",
+  "assets": [
+    {
+      "base": "ucor",
+      "symbol": "COR",
+      "exponent": "6"
+    }
+  ]
 }
-
-
